@@ -345,7 +345,7 @@ footer .pr {display: block;}
 }
 /*左側ボックス*/
 .ta1 th {
-	width: 150px;	/*幅*/
+	width: 320px;	/*幅*/
 	text-align: center;	/*センタリング*/
 	font-weight: normal;
 }
